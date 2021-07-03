@@ -7,5 +7,3 @@ is covered with convulsions and an unshakable desire to fix everything😱.
 I believe that every programmer developing an open source project should treat coding as an art🎨.  
 
 Code is no doubt a tool for making money, but code is your face too.
-
-<img align="right" src="life.png" width="500"/>
